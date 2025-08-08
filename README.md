@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliOrod
-- 👀 I’m interested in Computer , Frontend , Security ...
+- 👀 I’m interested in Computer , Frontend ,Backend, Security ...
 - 🌱 I’m currently learning c#
 - Junior maybe?
 
